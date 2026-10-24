@@ -1,6 +1,4 @@
-# TurokDSC
-
-Dev Manager at HidenCloud and HidenEnterprises. Boss at HidenStudio.
+<img src="banner.svg" alt="TurokDSC, Dev Manager at HidenCloud and HidenEnterprises, Boss at HidenStudio" width="100%">
 
 I build Discord bots, Paper/Folia plugins and web dashboards, mostly in TypeScript, Kotlin, Vue and PHP.
 

@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="TurokDSC, Dev Manager at HidenCloud and HidenEnterprises, Boss at HidenStudio">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b0f1a"/>
+      <stop offset="0.55" stop-color="#151a33"/>
+      <stop offset="1" stop-color="#2a1f4d"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fcd34d"/>
+      <stop offset="1" stop-color="#d97706"/>
+    </linearGradient>
+    <linearGradient id="violet" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#a78bfa"/>
+      <stop offset="1" stop-color="#6d28d9"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#ffffff" stroke-opacity="0.04"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="16" fill="url(#grid)"/>
+  <rect x="0" y="0" width="1200" height="4" rx="2" fill="url(#accent)"/>
+
+  <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+    <text x="64" y="138" font-size="76" font-weight="700" fill="#f8fafc" letter-spacing="-1">TurokDSC</text>
+    <rect x="66" y="156" width="96" height="5" rx="2.5" fill="url(#accent)"/>
+    <text x="64" y="204" font-size="26" fill="#cbd5e1">Dev Manager at HidenCloud / HidenEnterprises</text>
+    <text x="64" y="242" font-size="26" fill="#cbd5e1">Boss at HidenStudio</text>
+    <text x="64" y="284" font-size="18" fill="#7c86a2" letter-spacing="0.5">Discord bots  /  Paper and Folia plugins  /  web panels</text>
+  </g>
+
+  <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-weight="700" font-size="22" letter-spacing="2">
+    <g transform="translate(790 78)">
+      <rect width="330" height="62" rx="8" fill="#000" fill-opacity="0.35" transform="translate(4 5)"/>
+      <rect width="330" height="62" rx="8" fill="url(#gold)"/>
+      <rect x="2" y="2" width="326" height="26" rx="6" fill="#fff" fill-opacity="0.18"/>
+      <rect width="330" height="62" rx="8" fill="none" stroke="#fef3c7" stroke-opacity="0.7" stroke-width="2"/>
+      <text x="165" y="40" text-anchor="middle" fill="#3b2300">DEV MANAGER</text>
+    </g>
+    <g transform="translate(850 168)">
+      <rect width="270" height="62" rx="8" fill="#000" fill-opacity="0.35" transform="translate(4 5)"/>
+      <rect width="270" height="62" rx="8" fill="url(#violet)"/>
+      <rect x="2" y="2" width="266" height="26" rx="6" fill="#fff" fill-opacity="0.18"/>
+      <rect width="270" height="62" rx="8" fill="none" stroke="#ddd6fe" stroke-opacity="0.7" stroke-width="2"/>
+      <text x="135" y="40" text-anchor="middle" fill="#ffffff">BOSS</text>
+    </g>
+  </g>
+</svg>

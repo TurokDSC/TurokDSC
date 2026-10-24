@@ -10,3 +10,7 @@ I build Discord bots, Paper/Folia plugins and web panels.
 - Kotlin: Paper/Folia plugins
 - Vue: dashboards and web panels
 - PHP: web projects
+
+## Projects
+
+- [BasaltRanks](https://github.com/TurokDSC/BasaltRanks): visual rank badge generator for Paper/Folia servers, with LuckPerms integration and a web editor.
